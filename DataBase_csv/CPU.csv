@@ -1,119 +1,119 @@
 ,ID,CPU_Name,CPU_Brand,CPU_Model,CPU_Speed
-0,1,Intel Core i5 7Y54 1.2GHz,Intel,Core i5 7Y54,1.2
-1,2,Intel Core i5 7200U 2.5GHz,Intel,Core i5 7200U,2.5
-2,3,Intel Core i5 6200U 2.3GHz,Intel,Core i5 6200U,2.3
-3,4,AMD A4-Series 7210 2.2GHz,AMD,A4-Series 7210,2.2
-4,5,AMD A12-Series 9720P 2.7GHz,AMD,A12-Series 9720P,2.7
-5,6,Intel Atom X5-Z8350 1.44GHz,Intel,Atom X5-Z8350,1.44
-6,7,AMD A6-Series 9220 2.5GHz,AMD,A6-Series 9220,2.5
-7,8,AMD A12-Series 9700P 2.5GHz,AMD,A12-Series 9700P,2.5
-8,9,AMD E-Series E2-6110 1.5GHz,AMD,E-Series E2-6110,1.5
-9,10,Intel Pentium Dual Core N4200 1.1GHz,Intel,Pentium Dual Core N4200,1.1
-10,11,AMD A10-Series 9620P 2.5GHz,AMD,A10-Series 9620P,2.5
-11,12,Intel Pentium Quad Core N3710 1.6GHz,Intel,Pentium Quad Core N3710,1.6
-12,13,AMD A6-Series A6-9220 2.5GHz,AMD,A6-Series A6-9220,2.5
-13,14,Intel Core M 6Y54 1.1GHz,Intel,Core M 6Y54,1.1
-14,15,AMD E-Series 7110 1.8GHz,AMD,E-Series 7110,1.8
-15,16,Intel Atom x5-Z8550 1.44GHz,Intel,Atom x5-Z8550,1.44
-16,17,AMD A12-Series 9720P 3.6GHz,AMD,A12-Series 9720P,3.6
-17,18,AMD A9-Series 9420 3GHz,AMD,A9-Series 9420,3
-18,19,Intel Core i3 6100U 2.3GHz,Intel,Core i3 6100U,2.3
-19,20,AMD A6-Series 7310 2GHz,AMD,A6-Series 7310,2
-20,21,Intel Pentium Quad Core N3700 1.6GHz,Intel,Pentium Quad Core N3700,1.6
-21,22,Intel Core M 6Y75 1.2GHz,Intel,Core M 6Y75,1.2
-22,23,AMD E-Series 6110 1.5GHz,AMD,E-Series 6110,1.5
-23,24,Samsung Cortex A72&A53 2.0GHz,Samsung,Cortex A72&A53,2.0
-24,25,Intel Core i7 6500U 2.5GHz,Intel,Core i7 6500U,2.5
-25,26,Intel Core i7 7820HQ 2.9GHz,Intel,Core i7 7820HQ,2.9
-26,27,Intel Core i5 1.3GHz,Intel,Core i5 1.,3
-27,28,Intel Core M 1.2GHz,Intel,Core M 1.,2
-28,29,AMD FX 9830P 3GHz,AMD,FX 9830P,3
-29,30,Intel Celeron Dual Core N3060 1.6GHz,Intel,Celeron Dual Core N3060,1.6
-30,31,Intel Core i7 8550U 1.8GHz,Intel,Core i7 8550U,1.8
-31,32,Intel Core M M7-6Y75 1.2GHz,Intel,Core M M7-6Y75,1.2
-32,33,Intel Atom x5-Z8300 1.44GHz,Intel,Atom x5-Z8300,1.44
-33,34,Intel Celeron Dual Core N3350 2GHz,Intel,Celeron Dual Core N3350,2
-34,35,Intel Celeron Dual Core 3855U 1.6GHz,Intel,Celeron Dual Core 3855U,1.6
-35,36,Intel Pentium Dual Core 4405U 2.1GHz,Intel,Pentium Dual Core 4405U,2.1
-36,37,Intel Celeron Quad Core N3710 1.6GHz,Intel,Celeron Quad Core N3710,1.6
-37,38,Intel Core i7 2.8GHz,Intel,Core i7 2.,8
-38,39,AMD E-Series 9000 2.2GHz,AMD,E-Series 9000,2.2
-39,40,AMD E-Series 9000e 1.5GHz,AMD,E-Series 9000e,1.5
-40,41,Intel Core i3 7100U 2.4GHz,Intel,Core i3 7100U,2.4
-41,42,Intel Xeon E3-1535M v5 2.9GHz,Intel,Xeon E3-1535M v5,2.9
-42,43,Intel Core i5 7300HQ 2.5GHz,Intel,Core i5 7300HQ,2.5
-43,44,Intel Celeron Quad Core N3450 1.1GHz,Intel,Celeron Quad Core N3450,1.1
-44,45,Intel Core i3 6006U 2GHz,Intel,Core i3 6006U,2
-45,46,Intel Core i5 2.0GHz,Intel,Core i5 2.,0
-46,47,Intel Celeron Dual Core N3350 2.0GHz,Intel,Celeron Dual Core N3350,2.0
-47,48,Intel Core i5 6440HQ 2.6GHz,Intel,Core i5 6440HQ,2.6
-48,49,Intel Core M m3 1.2GHz,Intel,Core M m3,1.2
-49,50,Intel Core i3 6006U 2.2GHz,Intel,Core i3 6006U,2.2
-50,51,AMD Ryzen 1600 3.2GHz,AMD,Ryzen 1600,3.2
-51,52,Intel Core i5 1.8GHz,Intel,Core i5 1.,8
-52,53,Intel Core M m3-7Y30 2.2GHz,Intel,Core M m3-7Y30,2.2
-53,54,Intel Core i7 7700HQ 2.8GHz,Intel,Core i7 7700HQ,2.8
-54,55,Intel Core i7 6600U 2.6GHz,Intel,Core i7 6600U,2.6
-55,56,Intel Core i7 7660U 2.5GHz,Intel,Core i7 7660U,2.5
-56,57,Intel Core i7 6920HQ 2.9GHz,Intel,Core i7 6920HQ,2.9
-57,58,Intel Core i5 8250U 1.6GHz,Intel,Core i5 8250U,1.6
-58,59,Intel Core i5 7300U 2.6GHz,Intel,Core i5 7300U,2.6
-59,60,Intel Celeron Dual Core N3050 1.6GHz,Intel,Celeron Dual Core N3050,1.6
-60,61,Intel Pentium Quad Core N4200 1.1GHz,Intel,Pentium Quad Core N4200,1.1
-61,62,Intel Celeron Dual Core N3350 1.1GHz,Intel,Celeron Dual Core N3350,1.1
-62,63,Intel Xeon E3-1505M V6 3GHz,Intel,Xeon E3-1505M V6,3
-63,64,AMD A10-Series 9600P 2.4GHz,AMD,A10-Series 9600P,2.4
-64,65,AMD E-Series E2-9000 2.2GHz,AMD,E-Series E2-9000,2.2
-65,66,Intel Core i7 7500U 2.5GHz,Intel,Core i7 7500U,2.5
-66,67,Intel Atom Z8350 1.92GHz,Intel,Atom Z8350,1.92
-67,68,AMD A9-Series 9420 2.9GHz,AMD,A9-Series 9420,2.9
-68,69,Intel Core i7 7Y75 1.3GHz,Intel,Core i7 7Y75,1.3
-69,70,Intel Core M 1.1GHz,Intel,Core M 1.,1
-70,71,Intel Core i7 2.7GHz,Intel,Core i7 2.,7
-71,72,Intel Celeron Dual Core 3205U 1.5GHz,Intel,Celeron Dual Core 3205U,1.5
-72,73,AMD Ryzen 1700 3GHz,AMD,Ryzen 1700,3
-73,74,AMD FX 8800P 2.1GHz,AMD,FX 8800P,2.1
-74,75,AMD A8-Series 7410 2.2GHz,AMD,A8-Series 7410,2.2
-75,76,AMD A9-Series 9410 2.9GHz,AMD,A9-Series 9410,2.9
-76,77,Intel Core i5 7500U 2.7GHz,Intel,Core i5 7500U,2.7
-77,78,Intel Core i5 7200U 2.50GHz,Intel,Core i5 7200U,2.50
-78,79,AMD A10-Series A10-9620P 2.5GHz,AMD,A10-Series A10-9620P,2.5
-79,80,Intel Celeron Dual Core N3060 1.60GHz,Intel,Celeron Dual Core N3060,1.60
-80,81,Intel Core i7 6700HQ 2.6GHz,Intel,Core i7 6700HQ,2.6
-81,82,Intel Core i5 2.3GHz,Intel,Core i5 2.,3
-82,83,Intel Core i7 8650U 1.9GHz,Intel,Core i7 8650U,1.9
-83,84,Intel Core i7 7500U 2.7GHz,Intel,Core i7 7500U,2.7
-84,85,Intel Atom x5-Z8350 1.44GHz,Intel,Atom x5-Z8350,1.44
-85,86,Intel Core i7 2.9GHz,Intel,Core i7 2.,9
-86,87,Intel Core M 7Y30 1.0GHz,Intel,Core M 7Y30,1.0
-87,88,Intel Core i5 7440HQ 2.8GHz,Intel,Core i5 7440HQ,2.8
-88,89,Intel Core i5 2.9GHz,Intel,Core i5 2.,9
-89,90,Intel Core i5 6300HQ 2.3GHz,Intel,Core i5 6300HQ,2.3
-90,91,Intel Core i3 7130U 2.7GHz,Intel,Core i3 7130U,2.7
-91,92,Intel Core M 6Y30 0.9GHz,Intel,Core M 6Y30,0.9
-92,93,Intel Core i3 6100U 2.1GHz,Intel,Core i3 6100U,2.1
-93,94,Intel Core i7 6560U 2.2GHz,Intel,Core i7 6560U,2.2
-94,95,Intel Core M m7-6Y75 1.2GHz,Intel,Core M m7-6Y75,1.2
-95,96,Intel Core i7 7820HK 2.9GHz,Intel,Core i7 7820HK,2.9
-96,97,Intel Core i5 6260U 1.8GHz,Intel,Core i5 6260U,1.8
-97,98,Intel Core i7 7560U 2.4GHz,Intel,Core i7 7560U,2.4
-98,99,Intel Core i7 7600U 2.8GHz,Intel,Core i7 7600U,2.8
-99,100,Intel Core i7 7700HQ 2.7GHz,Intel,Core i7 7700HQ,2.7
-100,101,Intel Core i7 6820HQ 2.7GHz,Intel,Core i7 6820HQ,2.7
-101,102,Intel Core M M3-6Y30 0.9GHz,Intel,Core M M3-6Y30,0.9
-102,103,Intel Core i5 7Y57 1.2GHz,Intel,Core i5 7Y57,1.2
-103,104,Intel Core i5 1.6GHz,Intel,Core i5 1.,6
-104,105,AMD A6-Series 9220 2.9GHz,AMD,A6-Series 9220,2.9
-105,106,Intel Celeron Quad Core N3160 1.6GHz,Intel,Celeron Quad Core N3160,1.6
-106,107,Intel Core i7 2.2GHz,Intel,Core i7 2.,2
-107,108,AMD A9-Series A9-9420 3GHz,AMD,A9-Series A9-9420,3
-108,109,AMD E-Series E2-9000e 1.5GHz,AMD,E-Series E2-9000e,1.5
-109,110,Intel Xeon E3-1535M v6 3.1GHz,Intel,Xeon E3-1535M v6,3.1
-110,111,Intel Core i7 6820HK 2.7GHz,Intel,Core i7 6820HK,2.7
-111,112,Intel Pentium Dual Core 4405Y 1.5GHz,Intel,Pentium Dual Core 4405Y,1.5
-112,113,Intel Core i3 6006U 2.0GHz,Intel,Core i3 6006U,2.0
-113,114,Intel Core i5 7200U 2.7GHz,Intel,Core i5 7200U,2.7
-114,115,Intel Core i5 3.1GHz,Intel,Core i5 3.,1
-115,116,Intel Core i7 6500U 2.50GHz,Intel,Core i7 6500U,2.50
-116,117,Intel Core i5 7200U 2.70GHz,Intel,Core i5 7200U,2.70
-117,118,Intel Core i5 6300U 2.4GHz,Intel,Core i5 6300U,2.4
+0,1,Intel Atom X5-Z8350 1.44GHz,Intel,Atom X5-Z8350,1.44
+1,2,AMD A6-Series A6-9220 2.5GHz,AMD,A6-Series A6-9220,2.5
+2,3,Intel Core i7 7700HQ 2.7GHz,Intel,Core i7 7700HQ,2.7
+3,4,Intel Pentium Quad Core N4200 1.1GHz,Intel,Pentium Quad Core N4200,1.1
+4,5,Intel Core i7 6920HQ 2.9GHz,Intel,Core i7 6920HQ,2.9
+5,6,Intel Core i7 2.9GHz,Intel,Core i7 2.,9
+6,7,Intel Core i5 1.6GHz,Intel,Core i5 1.,6
+7,8,Intel Core i5 6260U 1.8GHz,Intel,Core i5 6260U,1.8
+8,9,Samsung Cortex A72&A53 2.0GHz,Samsung,Cortex A72&A53,2.0
+9,10,Intel Core i3 6006U 2.2GHz,Intel,Core i3 6006U,2.2
+10,11,Intel Celeron Dual Core N3350 2GHz,Intel,Celeron Dual Core N3350,2
+11,12,Intel Core i5 7500U 2.7GHz,Intel,Core i5 7500U,2.7
+12,13,Intel Core i7 2.8GHz,Intel,Core i7 2.,8
+13,14,Intel Core i5 7200U 2.50GHz,Intel,Core i5 7200U,2.50
+14,15,Intel Celeron Dual Core N3350 1.1GHz,Intel,Celeron Dual Core N3350,1.1
+15,16,AMD A10-Series A10-9620P 2.5GHz,AMD,A10-Series A10-9620P,2.5
+16,17,Intel Core i3 6006U 2GHz,Intel,Core i3 6006U,2
+17,18,Intel Core M 6Y30 0.9GHz,Intel,Core M 6Y30,0.9
+18,19,Intel Core i7 6500U 2.50GHz,Intel,Core i7 6500U,2.50
+19,20,AMD A9-Series A9-9420 3GHz,AMD,A9-Series A9-9420,3
+20,21,Intel Core i7 7Y75 1.3GHz,Intel,Core i7 7Y75,1.3
+21,22,Intel Core i5 7Y57 1.2GHz,Intel,Core i5 7Y57,1.2
+22,23,Intel Core M 1.2GHz,Intel,Core M 1.,2
+23,24,Intel Celeron Dual Core 3855U 1.6GHz,Intel,Celeron Dual Core 3855U,1.6
+24,25,Intel Xeon E3-1535M v5 2.9GHz,Intel,Xeon E3-1535M v5,2.9
+25,26,Intel Pentium Quad Core N3710 1.6GHz,Intel,Pentium Quad Core N3710,1.6
+26,27,Intel Core M 6Y54 1.1GHz,Intel,Core M 6Y54,1.1
+27,28,Intel Core i7 6820HK 2.7GHz,Intel,Core i7 6820HK,2.7
+28,29,AMD A6-Series 9220 2.5GHz,AMD,A6-Series 9220,2.5
+29,30,Intel Pentium Dual Core 4405Y 1.5GHz,Intel,Pentium Dual Core 4405Y,1.5
+30,31,AMD FX 9830P 3GHz,AMD,FX 9830P,3
+31,32,Intel Core M m7-6Y75 1.2GHz,Intel,Core M m7-6Y75,1.2
+32,33,Intel Celeron Dual Core N3350 2.0GHz,Intel,Celeron Dual Core N3350,2.0
+33,34,Intel Core i7 7500U 2.7GHz,Intel,Core i7 7500U,2.7
+34,35,Intel Core M M7-6Y75 1.2GHz,Intel,Core M M7-6Y75,1.2
+35,36,Intel Core i7 6600U 2.6GHz,Intel,Core i7 6600U,2.6
+36,37,Intel Core i7 6560U 2.2GHz,Intel,Core i7 6560U,2.2
+37,38,AMD E-Series E2-9000e 1.5GHz,AMD,E-Series E2-9000e,1.5
+38,39,Intel Celeron Dual Core 3205U 1.5GHz,Intel,Celeron Dual Core 3205U,1.5
+39,40,AMD A12-Series 9720P 3.6GHz,AMD,A12-Series 9720P,3.6
+40,41,Intel Core M m3-7Y30 2.2GHz,Intel,Core M m3-7Y30,2.2
+41,42,AMD A12-Series 9700P 2.5GHz,AMD,A12-Series 9700P,2.5
+42,43,Intel Core i7 6820HQ 2.7GHz,Intel,Core i7 6820HQ,2.7
+43,44,AMD A9-Series 9420 3GHz,AMD,A9-Series 9420,3
+44,45,Intel Core i5 1.3GHz,Intel,Core i5 1.,3
+45,46,Intel Celeron Quad Core N3160 1.6GHz,Intel,Celeron Quad Core N3160,1.6
+46,47,AMD A6-Series 9220 2.9GHz,AMD,A6-Series 9220,2.9
+47,48,Intel Core i5 2.0GHz,Intel,Core i5 2.,0
+48,49,AMD E-Series E2-6110 1.5GHz,AMD,E-Series E2-6110,1.5
+49,50,AMD E-Series 6110 1.5GHz,AMD,E-Series 6110,1.5
+50,51,Intel Atom x5-Z8350 1.44GHz,Intel,Atom x5-Z8350,1.44
+51,52,Intel Pentium Quad Core N3700 1.6GHz,Intel,Pentium Quad Core N3700,1.6
+52,53,Intel Core i7 7500U 2.5GHz,Intel,Core i7 7500U,2.5
+53,54,Intel Core i3 6100U 2.1GHz,Intel,Core i3 6100U,2.1
+54,55,AMD E-Series 7110 1.8GHz,AMD,E-Series 7110,1.8
+55,56,Intel Core i5 8250U 1.6GHz,Intel,Core i5 8250U,1.6
+56,57,Intel Core M m3 1.2GHz,Intel,Core M m3,1.2
+57,58,Intel Core i7 7660U 2.5GHz,Intel,Core i7 7660U,2.5
+58,59,Intel Atom Z8350 1.92GHz,Intel,Atom Z8350,1.92
+59,60,AMD A10-Series 9600P 2.4GHz,AMD,A10-Series 9600P,2.4
+60,61,Intel Celeron Quad Core N3450 1.1GHz,Intel,Celeron Quad Core N3450,1.1
+61,62,AMD A12-Series 9720P 2.7GHz,AMD,A12-Series 9720P,2.7
+62,63,Intel Core i5 6440HQ 2.6GHz,Intel,Core i5 6440HQ,2.6
+63,64,Intel Core M M3-6Y30 0.9GHz,Intel,Core M M3-6Y30,0.9
+64,65,Intel Core i5 6300U 2.4GHz,Intel,Core i5 6300U,2.4
+65,66,Intel Celeron Quad Core N3710 1.6GHz,Intel,Celeron Quad Core N3710,1.6
+66,67,AMD Ryzen 1600 3.2GHz,AMD,Ryzen 1600,3.2
+67,68,Intel Core i7 7820HQ 2.9GHz,Intel,Core i7 7820HQ,2.9
+68,69,Intel Core i5 7300HQ 2.5GHz,Intel,Core i5 7300HQ,2.5
+69,70,Intel Core i7 6700HQ 2.6GHz,Intel,Core i7 6700HQ,2.6
+70,71,Intel Core i5 3.1GHz,Intel,Core i5 3.,1
+71,72,Intel Xeon E3-1505M V6 3GHz,Intel,Xeon E3-1505M V6,3
+72,73,AMD E-Series 9000 2.2GHz,AMD,E-Series 9000,2.2
+73,74,AMD E-Series E2-9000 2.2GHz,AMD,E-Series E2-9000,2.2
+74,75,Intel Core i7 6500U 2.5GHz,Intel,Core i7 6500U,2.5
+75,76,AMD E-Series 9000e 1.5GHz,AMD,E-Series 9000e,1.5
+76,77,Intel Core i3 6006U 2.0GHz,Intel,Core i3 6006U,2.0
+77,78,Intel Core i3 6100U 2.3GHz,Intel,Core i3 6100U,2.3
+78,79,AMD A6-Series 7310 2GHz,AMD,A6-Series 7310,2
+79,80,Intel Core i5 7440HQ 2.8GHz,Intel,Core i5 7440HQ,2.8
+80,81,Intel Core i5 1.8GHz,Intel,Core i5 1.,8
+81,82,Intel Core i7 7700HQ 2.8GHz,Intel,Core i7 7700HQ,2.8
+82,83,Intel Celeron Dual Core N3050 1.6GHz,Intel,Celeron Dual Core N3050,1.6
+83,84,Intel Core i5 7200U 2.7GHz,Intel,Core i5 7200U,2.7
+84,85,Intel Core i3 7100U 2.4GHz,Intel,Core i3 7100U,2.4
+85,86,Intel Core M 1.1GHz,Intel,Core M 1.,1
+86,87,AMD A10-Series 9620P 2.5GHz,AMD,A10-Series 9620P,2.5
+87,88,Intel Core i3 7130U 2.7GHz,Intel,Core i3 7130U,2.7
+88,89,Intel Core M 7Y30 1.0GHz,Intel,Core M 7Y30,1.0
+89,90,Intel Core i5 7200U 2.70GHz,Intel,Core i5 7200U,2.70
+90,91,Intel Core i7 8550U 1.8GHz,Intel,Core i7 8550U,1.8
+91,92,Intel Pentium Dual Core N4200 1.1GHz,Intel,Pentium Dual Core N4200,1.1
+92,93,Intel Celeron Dual Core N3060 1.60GHz,Intel,Celeron Dual Core N3060,1.60
+93,94,Intel Core i5 7300U 2.6GHz,Intel,Core i5 7300U,2.6
+94,95,AMD FX 8800P 2.1GHz,AMD,FX 8800P,2.1
+95,96,Intel Core i5 6200U 2.3GHz,Intel,Core i5 6200U,2.3
+96,97,Intel Core i7 8650U 1.9GHz,Intel,Core i7 8650U,1.9
+97,98,AMD A4-Series 7210 2.2GHz,AMD,A4-Series 7210,2.2
+98,99,AMD A9-Series 9420 2.9GHz,AMD,A9-Series 9420,2.9
+99,100,Intel Xeon E3-1535M v6 3.1GHz,Intel,Xeon E3-1535M v6,3.1
+100,101,Intel Atom x5-Z8300 1.44GHz,Intel,Atom x5-Z8300,1.44
+101,102,Intel Core i7 2.7GHz,Intel,Core i7 2.,7
+102,103,AMD A8-Series 7410 2.2GHz,AMD,A8-Series 7410,2.2
+103,104,Intel Core i7 7560U 2.4GHz,Intel,Core i7 7560U,2.4
+104,105,Intel Core i7 7600U 2.8GHz,Intel,Core i7 7600U,2.8
+105,106,AMD A9-Series 9410 2.9GHz,AMD,A9-Series 9410,2.9
+106,107,Intel Pentium Dual Core 4405U 2.1GHz,Intel,Pentium Dual Core 4405U,2.1
+107,108,Intel Core i5 2.3GHz,Intel,Core i5 2.,3
+108,109,Intel Core i5 7Y54 1.2GHz,Intel,Core i5 7Y54,1.2
+109,110,Intel Celeron Dual Core N3060 1.6GHz,Intel,Celeron Dual Core N3060,1.6
+110,111,Intel Atom x5-Z8550 1.44GHz,Intel,Atom x5-Z8550,1.44
+111,112,Intel Core i5 7200U 2.5GHz,Intel,Core i5 7200U,2.5
+112,113,Intel Core i5 6300HQ 2.3GHz,Intel,Core i5 6300HQ,2.3
+113,114,Intel Core M 6Y75 1.2GHz,Intel,Core M 6Y75,1.2
+114,115,AMD Ryzen 1700 3GHz,AMD,Ryzen 1700,3
+115,116,Intel Core i5 2.9GHz,Intel,Core i5 2.,9
+116,117,Intel Core i7 7820HK 2.9GHz,Intel,Core i7 7820HK,2.9
+117,118,Intel Core i7 2.2GHz,Intel,Core i7 2.,2
