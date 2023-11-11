@@ -5,7 +5,8 @@
 <h2>:bulb: Tools </h2>
 <code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img title="MySQL" alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
-<img title="Power BI" alt="Power BI" width="35px" src="https://example.com/path/to/powerbi-icon.png" />
+<code><img title="Power BI" alt="Power BI" width="35px" src="https://example.com/path/to/powerbi-icon.png" /></code>
+
 
 
 ## Project Overview
