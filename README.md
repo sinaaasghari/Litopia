@@ -1,11 +1,11 @@
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%FFA500;&size=30&center=true&vCenter=true&width=450&lines=Welcome To Litopia"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%87CEEB;&size=30&center=true&vCenter=true&width=450&lines=Welcome To Litopia"></a>
 </div>
 
 <h2>:bulb: Tools </h2>
 <code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img title="MySQL" alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
-<code><img title="Power BI" alt="Power BI" width="35px" src="https://example.com/path/to/powerbi-icon.png" /></code>
+<code><img title="Power BI" alt="Power BI" width="35px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" /></code>
 
 
 
@@ -29,7 +29,7 @@ Our primary goals in the Litopia project are:
    - Implement machine learning, statistical analysis, and data visualization techniques to uncover valuable information.
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%FFA500;&size=30&center=true&vCenter=true&width=450&lines=Project Phases "></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%87CEEB;&size=30&center=true&vCenter=true&width=450&lines=Project Phases "></a>
 </div>
 
 ### Phase 1: Competitor Data Scraping
