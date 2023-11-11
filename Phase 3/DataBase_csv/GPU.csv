@@ -1,0 +1,111 @@
+,ID,GPU_Name,GPU_Brand,GPU_Kind,GPU_Model
+0,1,ARM Mali T860 MP4,ARM,Mali,T860 MP4
+1,2,Nvidia GeForce GTX 1070M,Nvidia,GeForce,GTX 1070M
+2,3,Nvidia GeForce GTX 965M,Nvidia,GeForce,GTX 965M
+3,4,AMD FirePro W5130M,AMD,FirePro,W5130M
+4,5,AMD Radeon R3,AMD,Radeon,R3
+5,6,Nvidia GeForce GTX 1050M,Nvidia,GeForce,GTX 1050M
+6,7,AMD Radeon R5 M430,AMD,Radeon,R5 M430
+7,8,Nvidia Quadro M2000M,Nvidia,Quadro,M2000M
+8,9,AMD R17M-M1-70,AMD,R17M-M1-70,null
+9,10,Nvidia GeForce GTX 980M,Nvidia,GeForce,GTX 980M
+10,11,Nvidia GeForce GT 940MX,Nvidia,GeForce,GT 940MX
+11,12,Intel HD Graphics 505,Intel,HD,Graphics 505
+12,13,AMD Radeon R5 M420,AMD,Radeon,R5 M420
+13,14,Nvidia GeForce GTX 960,Nvidia,GeForce,GTX 960
+14,15,AMD Radeon R7,AMD,Radeon,R7
+15,16,Nvidia GeForce 930MX,Nvidia,GeForce,930MX
+16,17,Nvidia GeForce GTX 1080,Nvidia,GeForce,GTX 1080
+17,18,Nvidia Quadro M520M,Nvidia,Quadro,M520M
+18,19,AMD Radeon R2 Graphics,AMD,Radeon,R2 Graphics
+19,20,Nvidia GeForce GTX 960<U+039C>,Nvidia,GeForce,GTX 960<U+039C>
+20,21,AMD Radeon R5,AMD,Radeon,R5
+21,22,Intel HD Graphics 540,Intel,HD,Graphics 540
+22,23,Intel Iris Pro Graphics,Intel,Iris,Pro Graphics
+23,24,Nvidia GeForce GTX 1070,Nvidia,GeForce,GTX 1070
+24,25,Intel HD Graphics 620,Intel,HD,Graphics 620
+25,26,Nvidia GeForce 920,Nvidia,GeForce,920
+26,27,Nvidia GeForce 930M,Nvidia,GeForce,930M
+27,28,Nvidia Quadro M3000M,Nvidia,Quadro,M3000M
+28,29,AMD Radeon R7 M365X,AMD,Radeon,R7 M365X
+29,30,AMD Radeon R9 M385,AMD,Radeon,R9 M385
+30,31,Nvidia GeForce 940M,Nvidia,GeForce,940M
+31,32,Intel Iris Graphics 540,Intel,Iris,Graphics 540
+32,33,Nvidia GeForce GTX 940MX,Nvidia,GeForce,GTX 940MX
+33,34,AMD Radeon R4,AMD,Radeon,R4
+34,35,Intel Graphics 620,Intel,Graphics,620
+35,36,Nvidia GeForce MX150,Nvidia,GeForce,MX150
+36,37,AMD Radeon R5 520,AMD,Radeon,R5 520
+37,38,Nvidia GeForce GTX 1050 Ti,Nvidia,GeForce,GTX 1050 Ti
+38,39,AMD Radeon R7 M445,AMD,Radeon,R7 M445
+39,40,Intel HD Graphics 620 ,Intel,HD,Graphics 620 
+40,41,Nvidia Quadro M1000M,Nvidia,Quadro,M1000M
+41,42,AMD Radeon RX 580,AMD,Radeon,RX 580
+42,43,Nvidia GeForce 920M,Nvidia,GeForce,920M
+43,44,Nvidia Quadro M620M,Nvidia,Quadro,M620M
+44,45,Nvidia GeForce GTX 980 ,Nvidia,GeForce,GTX 980 
+45,46,Nvidia GeForce GTX1080,Nvidia,GeForce,GTX1080
+46,47,Nvidia GeForce 150MX,Nvidia,GeForce,150MX
+47,48,Nvidia GeForce GTX 960M,Nvidia,GeForce,GTX 960M
+48,49,Intel HD Graphics 515,Intel,HD,Graphics 515
+49,50,AMD Radeon R5 M315,AMD,Radeon,R5 M315
+50,51,Intel Iris Graphics 550,Intel,Iris,Graphics 550
+51,52,Nvidia Quadro M500M,Nvidia,Quadro,M500M
+52,53,AMD Radeon R5 M420X,AMD,Radeon,R5 M420X
+53,54,AMD Radeon Pro 455,AMD,Radeon,Pro 455
+54,55,Nvidia Quadro M1200,Nvidia,Quadro,M1200
+55,56,Intel UHD Graphics 620,Intel,UHD,Graphics 620
+56,57,AMD Radeon R7 Graphics,AMD,Radeon,R7 Graphics
+57,58,AMD Radeon RX 550,AMD,Radeon,RX 550
+58,59,Intel HD Graphics,Intel,HD,Graphics
+59,60,Intel Iris Plus Graphics 650,Intel,Iris,Plus Graphics 650
+60,61,Intel HD Graphics 405,Intel,HD,Graphics 405
+61,62,AMD Radeon R2,AMD,Radeon,R2
+62,63,AMD Radeon R5 M330,AMD,Radeon,R5 M330
+63,64,Nvidia GeForce GTX 930MX,Nvidia,GeForce,GTX 930MX
+64,65,AMD Radeon R7 M465,AMD,Radeon,R7 M465
+65,66,Nvidia GeForce GTX 1050Ti,Nvidia,GeForce,GTX 1050Ti
+66,67,Nvidia Quadro M2200,Nvidia,Quadro,M2200
+67,68,AMD Radeon 530,AMD,Radeon,530
+68,69,Nvidia Quadro M2200M,Nvidia,Quadro,M2200M
+69,70,AMD FirePro W4190M ,AMD,FirePro,W4190M 
+70,71,AMD Radeon R4 Graphics,AMD,Radeon,R4 Graphics
+71,72,Intel HD Graphics 5300,Intel,HD,Graphics 5300
+72,73,Nvidia GeForce GTX1050 Ti,Nvidia,GeForce,GTX1050 Ti
+73,74,Intel HD Graphics 500,Intel,HD,Graphics 500
+74,75,AMD Radeon 520,AMD,Radeon,520
+75,76,Nvidia Quadro M620,Nvidia,Quadro,M620
+76,77,Nvidia GeForce GTX 950M,Nvidia,GeForce,GTX 950M
+77,78,AMD Radeon R7 M440,AMD,Radeon,R7 M440
+78,79,AMD Radeon R7 M360,AMD,Radeon,R7 M360
+79,80,Intel HD Graphics 510,Intel,HD,Graphics 510
+80,81,Intel HD Graphics 530,Intel,HD,Graphics 530
+81,82,Intel HD Graphics 6000,Intel,HD,Graphics 6000
+82,83,Nvidia GeForce GTX 970M,Nvidia,GeForce,GTX 970M
+83,84,AMD Radeon Pro 560,AMD,Radeon,Pro 560
+84,85,Nvidia GeForce 920MX ,Nvidia,GeForce,920MX 
+85,86,Nvidia Quadro 3000M,Nvidia,Quadro,3000M
+86,87,Intel HD Graphics 615,Intel,HD,Graphics 615
+87,88,Nvidia GeForce 960M,Nvidia,GeForce,960M
+88,89,Nvidia GeForce GTX 1050,Nvidia,GeForce,GTX 1050
+89,90,AMD Radeon R5 430,AMD,Radeon,R5 430
+90,91,Nvidia GeForce MX130,Nvidia,GeForce,MX130
+91,92,AMD R4 Graphics,AMD,R4,Graphics
+92,93,Nvidia GeForce 920MX,Nvidia,GeForce,920MX
+93,94,Intel HD Graphics 400,Intel,HD,Graphics 400
+94,95,Intel HD Graphics 520,Intel,HD,Graphics 520
+95,96,AMD FirePro W4190M,AMD,FirePro,W4190M
+96,97,Nvidia GeForce 940MX,Nvidia,GeForce,940MX
+97,98,Intel Iris Plus Graphics 640,Intel,Iris,Plus Graphics 640
+98,99,AMD Radeon RX 560,AMD,Radeon,RX 560
+99,100,AMD FirePro W6150M,AMD,FirePro,W6150M
+100,101,Intel HD Graphics 630,Intel,HD,Graphics 630
+101,102,AMD Radeon RX 540,AMD,Radeon,RX 540
+102,103,Nvidia GeForce GTX 1060,Nvidia,GeForce,GTX 1060
+103,104,AMD Radeon Pro 555,AMD,Radeon,Pro 555
+104,105,AMD Radeon 540,AMD,Radeon,540
+105,106,AMD Radeon R7 M460,AMD,Radeon,R7 M460
+106,107,Nvidia GeForce GTX 940M,Nvidia,GeForce,GTX 940M
+107,108,Nvidia GeForce GTX1060,Nvidia,GeForce,GTX1060
+108,109,Nvidia GTX 980 SLI,Nvidia,GTX,980 SLI
+109,110,Nvidia GeForce 930MX ,Nvidia,GeForce,930MX 
